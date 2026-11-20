@@ -1,0 +1,2503 @@
+{
+  "base_textures": [
+    {
+      "resource_index": 2,
+      "resource_type": "Texture",
+      "name": "Crash_Plates.dds",
+      "name_hash": "0x6c6d98f41d83e4b3",
+      "format": "DXT5",
+      "width": 512,
+      "height": 512,
+      "mip_count": 1,
+      "payload_size": 262144,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 512,
+          "size": 262144,
+          "file": "Texture_002_Crash_Plates.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 3,
+      "resource_type": "Texture",
+      "name": "HotRod-TEXT-1.dds",
+      "name_hash": "0xb0dc025c091d382c",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_003_HotRod-TEXT-1.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_003_HotRod-TEXT-1.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_003_HotRod-TEXT-1.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 193
+    },
+    {
+      "resource_index": 4,
+      "resource_type": "Texture",
+      "name": "HotRod-TEXT-2.dds",
+      "name_hash": "0xe220fe62fee397fb",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_004_HotRod-TEXT-2.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_004_HotRod-TEXT-2.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_004_HotRod-TEXT-2.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 194
+    },
+    {
+      "resource_index": 5,
+      "resource_type": "Texture",
+      "name": "HotRod-TEXT-3.dds",
+      "name_hash": "0x72d6b66bdcf021ae",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_005_HotRod-TEXT-3.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_005_HotRod-TEXT-3.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_005_HotRod-TEXT-3.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 195
+    },
+    {
+      "resource_index": 6,
+      "resource_type": "Texture",
+      "name": "HotRod-cucky a stin2.dds",
+      "name_hash": "0x4156e3c39af270e3",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_006_HotRod-cucky_a_stin2.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_006_HotRod-cucky_a_stin2.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_006_HotRod-cucky_a_stin2.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 196
+    },
+    {
+      "resource_index": 7,
+      "resource_type": "Texture",
+      "name": "HotRod-cucky a stin4.dds",
+      "name_hash": "0xed2d47d2d0f53415",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_007_HotRod-cucky_a_stin4.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_007_HotRod-cucky_a_stin4.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_007_HotRod-cucky_a_stin4.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 197
+    },
+    {
+      "resource_index": 8,
+      "resource_type": "Texture",
+      "name": "HotRod-jehly2.dds",
+      "name_hash": "0x1e946e792a9e4bb1",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_008_HotRod-jehly2.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_008_HotRod-jehly2.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_008_HotRod-jehly2.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 198
+    },
+    {
+      "resource_index": 9,
+      "resource_type": "Texture",
+      "name": "HotRod-plameny3.dds",
+      "name_hash": "0x5f559aec48a4b00c",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_009_HotRod-plameny3.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_009_HotRod-plameny3.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_009_HotRod-plameny3.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 199
+    },
+    {
+      "resource_index": 10,
+      "resource_type": "Texture",
+      "name": "HotRod-plameny5.dds",
+      "name_hash": "0x270a5f1f745f1d9a",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_010_HotRod-plameny5.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_010_HotRod-plameny5.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_010_HotRod-plameny5.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 200
+    },
+    {
+      "resource_index": 11,
+      "resource_type": "Texture",
+      "name": "SnowD.dds",
+      "name_hash": "0x01183ba74c620a81",
+      "format": "DXT5",
+      "width": 128,
+      "height": 256,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 256,
+          "size": 32768,
+          "file": "Texture_011_SnowD.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_011_SnowD.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_011_SnowD.dds_mip2.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 12,
+      "resource_type": "Texture",
+      "name": "SnowS.dds",
+      "name_hash": "0x44a84f5d55cce99a",
+      "format": "DXT1",
+      "width": 128,
+      "height": 256,
+      "mip_count": 9,
+      "payload_size": 21864,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 256,
+          "size": 16384,
+          "file": "Texture_012_SnowS.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 128,
+          "size": 4096,
+          "file": "Texture_012_SnowS.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 64,
+          "size": 1024,
+          "file": "Texture_012_SnowS.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 16,
+          "height": 32,
+          "size": 256,
+          "file": "Texture_012_SnowS.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 8,
+          "height": 16,
+          "size": 64,
+          "file": "Texture_012_SnowS.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 4,
+          "height": 8,
+          "size": 16,
+          "file": "Texture_012_SnowS.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 2,
+          "height": 4,
+          "size": 8,
+          "file": "Texture_012_SnowS.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 1,
+          "height": 2,
+          "size": 8,
+          "file": "Texture_012_SnowS.dds_mip7.png"
+        },
+        {
+          "level": 8,
+          "width": 1,
+          "height": 1,
+          "size": 8,
+          "file": "Texture_012_SnowS.dds_mip8.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 13,
+      "resource_type": "Texture",
+      "name": "UnivAlfa.dds",
+      "name_hash": "0x9faacbc29ec1b9a0",
+      "format": "DXT5",
+      "width": 32,
+      "height": 32,
+      "mip_count": 3,
+      "payload_size": 1344,
+      "exported": [
+        {
+          "level": 0,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_013_UnivAlfa.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 16,
+          "height": 16,
+          "size": 256,
+          "file": "Texture_013_UnivAlfa.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 8,
+          "height": 8,
+          "size": 64,
+          "file": "Texture_013_UnivAlfa.dds_mip2.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 14,
+      "resource_type": "Texture",
+      "name": "UnivChrom.dds",
+      "name_hash": "0x68ccf6da48683f53",
+      "format": "DXT1",
+      "width": 32,
+      "height": 32,
+      "mip_count": 4,
+      "payload_size": 680,
+      "exported": [
+        {
+          "level": 0,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_014_UnivChrom.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 16,
+          "height": 16,
+          "size": 128,
+          "file": "Texture_014_UnivChrom.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 8,
+          "height": 8,
+          "size": 32,
+          "file": "Texture_014_UnivChrom.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 4,
+          "height": 4,
+          "size": 8,
+          "file": "Texture_014_UnivChrom.dds_mip3.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 15,
+      "resource_type": "Texture",
+      "name": "UnivKastle.dds",
+      "name_hash": "0xf5acf6c81e1ab714",
+      "format": "DXT1",
+      "width": 32,
+      "height": 32,
+      "mip_count": 6,
+      "payload_size": 696,
+      "exported": [
+        {
+          "level": 0,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_015_UnivKastle.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 16,
+          "height": 16,
+          "size": 128,
+          "file": "Texture_015_UnivKastle.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 8,
+          "height": 8,
+          "size": 32,
+          "file": "Texture_015_UnivKastle.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 4,
+          "height": 4,
+          "size": 8,
+          "file": "Texture_015_UnivKastle.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 2,
+          "height": 2,
+          "size": 8,
+          "file": "Texture_015_UnivKastle.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 1,
+          "height": 1,
+          "size": 8,
+          "file": "Texture_015_UnivKastle.dds_mip5.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 16,
+      "resource_type": "Texture",
+      "name": "UnivNormal.dds",
+      "name_hash": "0x36b8b0c982318c59",
+      "format": "DXT5",
+      "width": 32,
+      "height": 32,
+      "mip_count": 3,
+      "payload_size": 1344,
+      "exported": [
+        {
+          "level": 0,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_016_UnivNormal.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 16,
+          "height": 16,
+          "size": 256,
+          "file": "Texture_016_UnivNormal.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 8,
+          "height": 8,
+          "size": 64,
+          "file": "Texture_016_UnivNormal.dds_mip2.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 17,
+      "resource_type": "Texture",
+      "name": "burned_chrome.dds",
+      "name_hash": "0x6f8faa22a8e21f9f",
+      "format": "DXT5",
+      "width": 128,
+      "height": 128,
+      "mip_count": 8,
+      "payload_size": 21872,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 16384,
+          "file": "Texture_017_burned_chrome.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 4096,
+          "file": "Texture_017_burned_chrome.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_017_burned_chrome.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 16,
+          "height": 16,
+          "size": 256,
+          "file": "Texture_017_burned_chrome.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 8,
+          "height": 8,
+          "size": 64,
+          "file": "Texture_017_burned_chrome.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 4,
+          "height": 4,
+          "size": 16,
+          "file": "Texture_017_burned_chrome.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 2,
+          "height": 2,
+          "size": 16,
+          "file": "Texture_017_burned_chrome.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 1,
+          "height": 1,
+          "size": 16,
+          "file": "Texture_017_burned_chrome.dds_mip7.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 18,
+      "resource_type": "Texture",
+      "name": "engine_compartments.dds",
+      "name_hash": "0x6686d86d78172d18",
+      "format": "DXT1",
+      "width": 256,
+      "height": 256,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 256,
+          "size": 32768,
+          "file": "Texture_018_engine_compartments.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_018_engine_compartments.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_018_engine_compartments.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 201
+    },
+    {
+      "resource_index": 19,
+      "resource_type": "Texture",
+      "name": "fakeglow_carheadlight.dds",
+      "name_hash": "0xb9686fbba334c809",
+      "format": "L8",
+      "width": 16,
+      "height": 256,
+      "mip_count": 9,
+      "payload_size": 5471,
+      "exported": [
+        {
+          "level": 0,
+          "width": 16,
+          "height": 256,
+          "size": 4096,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 8,
+          "height": 128,
+          "size": 1024,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 4,
+          "height": 64,
+          "size": 256,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 2,
+          "height": 32,
+          "size": 64,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 1,
+          "height": 16,
+          "size": 16,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 1,
+          "height": 8,
+          "size": 8,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 1,
+          "height": 4,
+          "size": 4,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 1,
+          "height": 2,
+          "size": 2,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip7.png"
+        },
+        {
+          "level": 8,
+          "width": 1,
+          "height": 1,
+          "size": 1,
+          "file": "Texture_019_fakeglow_carheadlight.dds_mip8.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 20,
+      "resource_type": "Texture",
+      "name": "glas_broken.dds",
+      "name_hash": "0x5ec904fa292abe35",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 9,
+      "payload_size": 43728,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_020_glas_broken.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_020_glas_broken.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_020_glas_broken.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 32,
+          "height": 16,
+          "size": 512,
+          "file": "Texture_020_glas_broken.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 16,
+          "height": 8,
+          "size": 128,
+          "file": "Texture_020_glas_broken.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 8,
+          "height": 4,
+          "size": 32,
+          "file": "Texture_020_glas_broken.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 4,
+          "height": 2,
+          "size": 16,
+          "file": "Texture_020_glas_broken.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 2,
+          "height": 1,
+          "size": 16,
+          "file": "Texture_020_glas_broken.dds_mip7.png"
+        },
+        {
+          "level": 8,
+          "width": 1,
+          "height": 1,
+          "size": 16,
+          "file": "Texture_020_glas_broken.dds_mip8.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 21,
+      "resource_type": "Texture",
+      "name": "gplc.dds",
+      "name_hash": "0xfbb8d9e9384023fa",
+      "format": "DXT1",
+      "width": 256,
+      "height": 128,
+      "mip_count": 2,
+      "payload_size": 20480,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 16384,
+          "file": "Texture_021_gplc.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 4096,
+          "file": "Texture_021_gplc.dds_mip1.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 202
+    },
+    {
+      "resource_index": 22,
+      "resource_type": "Texture",
+      "name": "gplc_n.dds",
+      "name_hash": "0x2314145c3594b511",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 4,
+      "payload_size": 43520,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_022_gplc_n.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_022_gplc_n.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_022_gplc_n.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 32,
+          "height": 16,
+          "size": 512,
+          "file": "Texture_022_gplc_n.dds_mip3.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 203
+    },
+    {
+      "resource_index": 23,
+      "resource_type": "Texture",
+      "name": "gplc_s.dds",
+      "name_hash": "0x0615c4c9962899d0",
+      "format": "DXT1",
+      "width": 128,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 10752,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_023_gplc_s.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_023_gplc_s.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_023_gplc_s.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 204
+    },
+    {
+      "resource_index": 25,
+      "resource_type": "Texture",
+      "name": "pismo.dds",
+      "name_hash": "0x9857b992eff526ca",
+      "format": "DXT5",
+      "width": 512,
+      "height": 32,
+      "mip_count": 5,
+      "payload_size": 21888,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 32,
+          "size": 16384,
+          "file": "Texture_025_pismo.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 256,
+          "height": 16,
+          "size": 4096,
+          "file": "Texture_025_pismo.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 128,
+          "height": 8,
+          "size": 1024,
+          "file": "Texture_025_pismo.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 64,
+          "height": 4,
+          "size": 256,
+          "file": "Texture_025_pismo.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 32,
+          "height": 2,
+          "size": 128,
+          "file": "Texture_025_pismo.dds_mip4.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 26,
+      "resource_type": "Texture",
+      "name": "projector_Lheadlight.dds",
+      "name_hash": "0x49fb336981593ee9",
+      "format": "DXT1",
+      "width": 128,
+      "height": 128,
+      "mip_count": 8,
+      "payload_size": 10936,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_026_projector_Lheadlight.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_026_projector_Lheadlight.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_026_projector_Lheadlight.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 16,
+          "height": 16,
+          "size": 128,
+          "file": "Texture_026_projector_Lheadlight.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 8,
+          "height": 8,
+          "size": 32,
+          "file": "Texture_026_projector_Lheadlight.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 4,
+          "height": 4,
+          "size": 8,
+          "file": "Texture_026_projector_Lheadlight.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 2,
+          "height": 2,
+          "size": 8,
+          "file": "Texture_026_projector_Lheadlight.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 1,
+          "height": 1,
+          "size": 8,
+          "file": "Texture_026_projector_Lheadlight.dds_mip7.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 27,
+      "resource_type": "Texture",
+      "name": "projector_Rheadlight.dds",
+      "name_hash": "0xd9ce626480f41f2b",
+      "format": "DXT1",
+      "width": 128,
+      "height": 128,
+      "mip_count": 8,
+      "payload_size": 10936,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_027_projector_Rheadlight.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_027_projector_Rheadlight.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_027_projector_Rheadlight.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 16,
+          "height": 16,
+          "size": 128,
+          "file": "Texture_027_projector_Rheadlight.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 8,
+          "height": 8,
+          "size": 32,
+          "file": "Texture_027_projector_Rheadlight.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 4,
+          "height": 4,
+          "size": 8,
+          "file": "Texture_027_projector_Rheadlight.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 2,
+          "height": 2,
+          "size": 8,
+          "file": "Texture_027_projector_Rheadlight.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 1,
+          "height": 1,
+          "size": 8,
+          "file": "Texture_027_projector_Rheadlight.dds_mip7.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 28,
+      "resource_type": "Texture",
+      "name": "pseudoshadow.dds",
+      "name_hash": "0x0f725b826c51d322",
+      "format": "L8",
+      "width": 32,
+      "height": 32,
+      "mip_count": 6,
+      "payload_size": 1365,
+      "exported": [
+        {
+          "level": 0,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_028_pseudoshadow.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 16,
+          "height": 16,
+          "size": 256,
+          "file": "Texture_028_pseudoshadow.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 8,
+          "height": 8,
+          "size": 64,
+          "file": "Texture_028_pseudoshadow.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 4,
+          "height": 4,
+          "size": 16,
+          "file": "Texture_028_pseudoshadow.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 2,
+          "height": 2,
+          "size": 4,
+          "file": "Texture_028_pseudoshadow.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 1,
+          "height": 1,
+          "size": 1,
+          "file": "Texture_028_pseudoshadow.dds_mip5.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 29,
+      "resource_type": "Texture",
+      "name": "tire_print.dds",
+      "name_hash": "0x06249819aa65f30a",
+      "format": "DXT5",
+      "width": 128,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 32768,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 256,
+          "size": 32768,
+          "file": "Texture_029_tire_print.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 30,
+      "resource_type": "Texture",
+      "name": "tire_print_n.dds",
+      "name_hash": "0x3cfa79d284faa881",
+      "format": "DXT1",
+      "width": 128,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 16384,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 256,
+          "size": 16384,
+          "file": "Texture_030_tire_print_n.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 31,
+      "resource_type": "Texture",
+      "name": "uniglass01.dds",
+      "name_hash": "0x0954e07360cee7d3",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 9,
+      "payload_size": 43728,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_031_uniglass01.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_031_uniglass01.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_031_uniglass01.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 32,
+          "height": 16,
+          "size": 512,
+          "file": "Texture_031_uniglass01.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 16,
+          "height": 8,
+          "size": 128,
+          "file": "Texture_031_uniglass01.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 8,
+          "height": 4,
+          "size": 32,
+          "file": "Texture_031_uniglass01.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 4,
+          "height": 2,
+          "size": 16,
+          "file": "Texture_031_uniglass01.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 2,
+          "height": 1,
+          "size": 16,
+          "file": "Texture_031_uniglass01.dds_mip7.png"
+        },
+        {
+          "level": 8,
+          "width": 1,
+          "height": 1,
+          "size": 16,
+          "file": "Texture_031_uniglass01.dds_mip8.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 32,
+      "resource_type": "Texture",
+      "name": "uniglass_snow.dds",
+      "name_hash": "0xb88925e86dc7fb62",
+      "format": "DXT5",
+      "width": 256,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 43008,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 128,
+          "size": 32768,
+          "file": "Texture_032_uniglass_snow.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 64,
+          "size": 8192,
+          "file": "Texture_032_uniglass_snow.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 32,
+          "size": 2048,
+          "file": "Texture_032_uniglass_snow.dds_mip2.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 33,
+      "resource_type": "Texture",
+      "name": "wheel_burned.dds",
+      "name_hash": "0xe85f1e84eb30f714",
+      "format": "DXT5",
+      "width": 128,
+      "height": 128,
+      "mip_count": 5,
+      "payload_size": 21824,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 16384,
+          "file": "Texture_033_wheel_burned.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 4096,
+          "file": "Texture_033_wheel_burned.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_033_wheel_burned.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 16,
+          "height": 16,
+          "size": 256,
+          "file": "Texture_033_wheel_burned.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 8,
+          "height": 8,
+          "size": 64,
+          "file": "Texture_033_wheel_burned.dds_mip4.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 35,
+      "resource_type": "Texture",
+      "name": "far_ambient.dds",
+      "name_hash": "0x21b0794ab51edac0",
+      "format": "DXT1",
+      "width": 64,
+      "height": 64,
+      "mip_count": 1,
+      "payload_size": 2048,
+      "exported": [
+        {
+          "level": 0,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_035_far_ambient.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 36,
+      "resource_type": "Texture",
+      "name": "wheel_univers_d.dds",
+      "name_hash": "0x7f9720b4c3639fc7",
+      "format": "DXT1",
+      "width": 256,
+      "height": 512,
+      "mip_count": 2,
+      "payload_size": 81920,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 512,
+          "size": 65536,
+          "file": "Texture_036_wheel_univers_d.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 256,
+          "size": 16384,
+          "file": "Texture_036_wheel_univers_d.dds_mip1.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 205
+    },
+    {
+      "resource_index": 37,
+      "resource_type": "Texture",
+      "name": "wheel_univers_n.dds",
+      "name_hash": "0x1fb2f46153d498f5",
+      "format": "DXT5",
+      "width": 256,
+      "height": 512,
+      "mip_count": 2,
+      "payload_size": 163840,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 512,
+          "size": 131072,
+          "file": "Texture_037_wheel_univers_n.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 256,
+          "size": 32768,
+          "file": "Texture_037_wheel_univers_n.dds_mip1.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 206
+    },
+    {
+      "resource_index": 38,
+      "resource_type": "Texture",
+      "name": "wheel_univers_s.dds",
+      "name_hash": "0x34fd850f3db2a21c",
+      "format": "DXT1",
+      "width": 128,
+      "height": 256,
+      "mip_count": 2,
+      "payload_size": 20480,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 256,
+          "size": 16384,
+          "file": "Texture_038_wheel_univers_s.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 128,
+          "size": 4096,
+          "file": "Texture_038_wheel_univers_s.dds_mip1.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 207
+    },
+    {
+      "resource_index": 39,
+      "resource_type": "Texture",
+      "name": "wheel_r.dds",
+      "name_hash": "0x5216ff62daf4267c",
+      "format": "DXT5",
+      "width": 128,
+      "height": 128,
+      "mip_count": 5,
+      "payload_size": 21824,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 16384,
+          "file": "Texture_039_wheel_r.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 4096,
+          "file": "Texture_039_wheel_r.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_039_wheel_r.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 16,
+          "height": 16,
+          "size": 256,
+          "file": "Texture_039_wheel_r.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 8,
+          "height": 8,
+          "size": 64,
+          "file": "Texture_039_wheel_r.dds_mip4.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 40,
+      "resource_type": "Texture",
+      "name": "projector_businterior.dds",
+      "name_hash": "0xc83863504062a9e5",
+      "format": "L8",
+      "width": 64,
+      "height": 64,
+      "mip_count": 7,
+      "payload_size": 5461,
+      "exported": [
+        {
+          "level": 0,
+          "width": 64,
+          "height": 64,
+          "size": 4096,
+          "file": "Texture_040_projector_businterior.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_040_projector_businterior.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 16,
+          "height": 16,
+          "size": 256,
+          "file": "Texture_040_projector_businterior.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 8,
+          "height": 8,
+          "size": 64,
+          "file": "Texture_040_projector_businterior.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 4,
+          "height": 4,
+          "size": 16,
+          "file": "Texture_040_projector_businterior.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 2,
+          "height": 2,
+          "size": 4,
+          "file": "Texture_040_projector_businterior.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 1,
+          "height": 1,
+          "size": 1,
+          "file": "Texture_040_projector_businterior.dds_mip6.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 41,
+      "resource_type": "Texture",
+      "name": "glow_carheadlight.dds",
+      "name_hash": "0x50455b42df776258",
+      "format": "L8",
+      "width": 128,
+      "height": 128,
+      "mip_count": 1,
+      "payload_size": 16384,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 16384,
+          "file": "Texture_041_glow_carheadlight.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 42,
+      "resource_type": "Texture",
+      "name": "projektor11.dds",
+      "name_hash": "0xc7f667d4eb3b4cac",
+      "format": "L8",
+      "width": 32,
+      "height": 32,
+      "mip_count": 1,
+      "payload_size": 1024,
+      "exported": [
+        {
+          "level": 0,
+          "width": 32,
+          "height": 32,
+          "size": 1024,
+          "file": "Texture_042_projektor11.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 43,
+      "resource_type": "Texture",
+      "name": "projektor_beacon.dds",
+      "name_hash": "0xe43d3f5115c4a9a3",
+      "format": "DXT1",
+      "width": 64,
+      "height": 64,
+      "mip_count": 1,
+      "payload_size": 2048,
+      "exported": [
+        {
+          "level": 0,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_043_projektor_beacon.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 44,
+      "resource_type": "Texture",
+      "name": "glow_beacon.dds",
+      "name_hash": "0x814f6cfd3b4bf69c",
+      "format": "L8",
+      "width": 128,
+      "height": 128,
+      "mip_count": 1,
+      "payload_size": 16384,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 16384,
+          "file": "Texture_044_glow_beacon.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 45,
+      "resource_type": "Texture",
+      "name": "GLOW_flashlight.dds",
+      "name_hash": "0x46df57c495ee4cf6",
+      "format": "L8",
+      "width": 64,
+      "height": 64,
+      "mip_count": 1,
+      "payload_size": 4096,
+      "exported": [
+        {
+          "level": 0,
+          "width": 64,
+          "height": 64,
+          "size": 4096,
+          "file": "Texture_045_GLOW_flashlight.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 46,
+      "resource_type": "Texture",
+      "name": "GLOW_light_halogen.dds",
+      "name_hash": "0x58c5b1b397b9869b",
+      "format": "L8",
+      "width": 64,
+      "height": 64,
+      "mip_count": 1,
+      "payload_size": 4096,
+      "exported": [
+        {
+          "level": 0,
+          "width": 64,
+          "height": 64,
+          "size": 4096,
+          "file": "Texture_046_GLOW_light_halogen.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 47,
+      "resource_type": "Texture",
+      "name": "projector_LRheadlight.dds",
+      "name_hash": "0xf5ea0240248b5833",
+      "format": "DXT1",
+      "width": 128,
+      "height": 128,
+      "mip_count": 8,
+      "payload_size": 10936,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_047_projector_LRheadlight.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_047_projector_LRheadlight.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_047_projector_LRheadlight.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 16,
+          "height": 16,
+          "size": 128,
+          "file": "Texture_047_projector_LRheadlight.dds_mip3.png"
+        },
+        {
+          "level": 4,
+          "width": 8,
+          "height": 8,
+          "size": 32,
+          "file": "Texture_047_projector_LRheadlight.dds_mip4.png"
+        },
+        {
+          "level": 5,
+          "width": 4,
+          "height": 4,
+          "size": 8,
+          "file": "Texture_047_projector_LRheadlight.dds_mip5.png"
+        },
+        {
+          "level": 6,
+          "width": 2,
+          "height": 2,
+          "size": 8,
+          "file": "Texture_047_projector_LRheadlight.dds_mip6.png"
+        },
+        {
+          "level": 7,
+          "width": 1,
+          "height": 1,
+          "size": 8,
+          "file": "Texture_047_projector_LRheadlight.dds_mip7.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 48,
+      "resource_type": "Texture",
+      "name": "projectionglowtexture_car.dds",
+      "name_hash": "0xad5e1da36a76c49c",
+      "format": "DXT1",
+      "width": 64,
+      "height": 64,
+      "mip_count": 1,
+      "payload_size": 2048,
+      "exported": [
+        {
+          "level": 0,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_048_projectionglowtexture_car.dds_mip0.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    },
+    {
+      "resource_index": 49,
+      "resource_type": "Texture",
+      "name": "CMRTVLOd.dds",
+      "name_hash": "0xd7a7982c8f3d7a8d",
+      "format": "DXT1",
+      "width": 128,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 10752,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_049_CMRTVLOd.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_049_CMRTVLOd.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_049_CMRTVLOd.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 208
+    },
+    {
+      "resource_index": 50,
+      "resource_type": "Texture",
+      "name": "CMRTVLOn.dds",
+      "name_hash": "0x3b4743fa9e544eaf",
+      "format": "DXT1",
+      "width": 256,
+      "height": 256,
+      "mip_count": 4,
+      "payload_size": 43520,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 256,
+          "size": 32768,
+          "file": "Texture_050_CMRTVLOn.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_050_CMRTVLOn.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_050_CMRTVLOn.dds_mip2.png"
+        },
+        {
+          "level": 3,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_050_CMRTVLOn.dds_mip3.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 209
+    },
+    {
+      "resource_index": 51,
+      "resource_type": "Texture",
+      "name": "CMRTVLOsp.dds",
+      "name_hash": "0xfe6135719932bca4",
+      "format": "DXT1",
+      "width": 128,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 10752,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_051_CMRTVLOsp.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_051_CMRTVLOsp.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_051_CMRTVLOsp.dds_mip2.png"
+        }
+      ],
+      "has_mip": true,
+      "matching_mipmap_index": 210
+    },
+    {
+      "resource_index": 52,
+      "resource_type": "Texture",
+      "name": "CMRTVLOd_LOD.dds",
+      "name_hash": "0xa3900efe158923cd",
+      "format": "DXT1",
+      "width": 128,
+      "height": 128,
+      "mip_count": 3,
+      "payload_size": 10752,
+      "exported": [
+        {
+          "level": 0,
+          "width": 128,
+          "height": 128,
+          "size": 8192,
+          "file": "Texture_052_CMRTVLOd_LOD.dds_mip0.png"
+        },
+        {
+          "level": 1,
+          "width": 64,
+          "height": 64,
+          "size": 2048,
+          "file": "Texture_052_CMRTVLOd_LOD.dds_mip1.png"
+        },
+        {
+          "level": 2,
+          "width": 32,
+          "height": 32,
+          "size": 512,
+          "file": "Texture_052_CMRTVLOd_LOD.dds_mip2.png"
+        }
+      ],
+      "has_mip": false,
+      "matching_mipmap_index": null
+    }
+  ],
+  "mipmap_resources": [
+    {
+      "resource_index": 193,
+      "resource_type": "Mipmap",
+      "name": "HotRod-TEXT-1.dds",
+      "name_hash": "0xb0dc025c091d382c",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_193_HotRod-TEXT-1.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 3
+    },
+    {
+      "resource_index": 194,
+      "resource_type": "Mipmap",
+      "name": "HotRod-TEXT-2.dds",
+      "name_hash": "0xe220fe62fee397fb",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_194_HotRod-TEXT-2.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 4
+    },
+    {
+      "resource_index": 195,
+      "resource_type": "Mipmap",
+      "name": "HotRod-TEXT-3.dds",
+      "name_hash": "0x72d6b66bdcf021ae",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_195_HotRod-TEXT-3.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 5
+    },
+    {
+      "resource_index": 196,
+      "resource_type": "Mipmap",
+      "name": "HotRod-cucky a stin2.dds",
+      "name_hash": "0x4156e3c39af270e3",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_196_HotRod-cucky_a_stin2.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 6
+    },
+    {
+      "resource_index": 197,
+      "resource_type": "Mipmap",
+      "name": "HotRod-cucky a stin4.dds",
+      "name_hash": "0xed2d47d2d0f53415",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_197_HotRod-cucky_a_stin4.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 7
+    },
+    {
+      "resource_index": 198,
+      "resource_type": "Mipmap",
+      "name": "HotRod-jehly2.dds",
+      "name_hash": "0x1e946e792a9e4bb1",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_198_HotRod-jehly2.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 8
+    },
+    {
+      "resource_index": 199,
+      "resource_type": "Mipmap",
+      "name": "HotRod-plameny3.dds",
+      "name_hash": "0x5f559aec48a4b00c",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_199_HotRod-plameny3.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 9
+    },
+    {
+      "resource_index": 200,
+      "resource_type": "Mipmap",
+      "name": "HotRod-plameny5.dds",
+      "name_hash": "0x270a5f1f745f1d9a",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_200_HotRod-plameny5.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 10
+    },
+    {
+      "resource_index": 201,
+      "resource_type": "Mipmap",
+      "name": "engine_compartments.dds",
+      "name_hash": "0x6686d86d78172d18",
+      "format": "DXT1",
+      "width": 512,
+      "height": 512,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 512,
+          "size": 131072,
+          "file": "Mipmap_201_engine_compartments.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 18
+    },
+    {
+      "resource_index": 202,
+      "resource_type": "Mipmap",
+      "name": "gplc.dds",
+      "name_hash": "0xfbb8d9e9384023fa",
+      "format": "DXT1",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 65536,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 65536,
+          "file": "Mipmap_202_gplc.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 21
+    },
+    {
+      "resource_index": 203,
+      "resource_type": "Mipmap",
+      "name": "gplc_n.dds",
+      "name_hash": "0x2314145c3594b511",
+      "format": "DXT5",
+      "width": 512,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 256,
+          "size": 131072,
+          "file": "Mipmap_203_gplc_n.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 22
+    },
+    {
+      "resource_index": 204,
+      "resource_type": "Mipmap",
+      "name": "gplc_s.dds",
+      "name_hash": "0x0615c4c9962899d0",
+      "format": "DXT1",
+      "width": 256,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 32768,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 256,
+          "size": 32768,
+          "file": "Mipmap_204_gplc_s.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 23
+    },
+    {
+      "resource_index": 205,
+      "resource_type": "Mipmap",
+      "name": "wheel_univers_d.dds",
+      "name_hash": "0x7f9720b4c3639fc7",
+      "format": "DXT1",
+      "width": 512,
+      "height": 1024,
+      "mip_count": 1,
+      "payload_size": 262144,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 1024,
+          "size": 262144,
+          "file": "Mipmap_205_wheel_univers_d.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 36
+    },
+    {
+      "resource_index": 206,
+      "resource_type": "Mipmap",
+      "name": "wheel_univers_n.dds",
+      "name_hash": "0x1fb2f46153d498f5",
+      "format": "DXT5",
+      "width": 512,
+      "height": 1024,
+      "mip_count": 1,
+      "payload_size": 524288,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 1024,
+          "size": 524288,
+          "file": "Mipmap_206_wheel_univers_n.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 37
+    },
+    {
+      "resource_index": 207,
+      "resource_type": "Mipmap",
+      "name": "wheel_univers_s.dds",
+      "name_hash": "0x34fd850f3db2a21c",
+      "format": "DXT1",
+      "width": 256,
+      "height": 512,
+      "mip_count": 1,
+      "payload_size": 65536,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 512,
+          "size": 65536,
+          "file": "Mipmap_207_wheel_univers_s.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 38
+    },
+    {
+      "resource_index": 208,
+      "resource_type": "Mipmap",
+      "name": "CMRTVLOd.dds",
+      "name_hash": "0xd7a7982c8f3d7a8d",
+      "format": "DXT1",
+      "width": 256,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 32768,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 256,
+          "size": 32768,
+          "file": "Mipmap_208_CMRTVLOd.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 49
+    },
+    {
+      "resource_index": 209,
+      "resource_type": "Mipmap",
+      "name": "CMRTVLOn.dds",
+      "name_hash": "0x3b4743fa9e544eaf",
+      "format": "DXT1",
+      "width": 512,
+      "height": 512,
+      "mip_count": 1,
+      "payload_size": 131072,
+      "exported": [
+        {
+          "level": 0,
+          "width": 512,
+          "height": 512,
+          "size": 131072,
+          "file": "Mipmap_209_CMRTVLOn.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 50
+    },
+    {
+      "resource_index": 210,
+      "resource_type": "Mipmap",
+      "name": "CMRTVLOsp.dds",
+      "name_hash": "0xfe6135719932bca4",
+      "format": "DXT1",
+      "width": 256,
+      "height": 256,
+      "mip_count": 1,
+      "payload_size": 32768,
+      "exported": [
+        {
+          "level": 0,
+          "width": 256,
+          "height": 256,
+          "size": 32768,
+          "file": "Mipmap_210_CMRTVLOsp.dds_mip0.png"
+        }
+      ],
+      "matching_texture_index": 51
+    }
+  ],
+  "pairs": [
+    {
+      "texture_index": 3,
+      "mipmap_index": 193,
+      "name": "HotRod-TEXT-1.dds"
+    },
+    {
+      "texture_index": 4,
+      "mipmap_index": 194,
+      "name": "HotRod-TEXT-2.dds"
+    },
+    {
+      "texture_index": 5,
+      "mipmap_index": 195,
+      "name": "HotRod-TEXT-3.dds"
+    },
+    {
+      "texture_index": 6,
+      "mipmap_index": 196,
+      "name": "HotRod-cucky a stin2.dds"
+    },
+    {
+      "texture_index": 7,
+      "mipmap_index": 197,
+      "name": "HotRod-cucky a stin4.dds"
+    },
+    {
+      "texture_index": 8,
+      "mipmap_index": 198,
+      "name": "HotRod-jehly2.dds"
+    },
+    {
+      "texture_index": 9,
+      "mipmap_index": 199,
+      "name": "HotRod-plameny3.dds"
+    },
+    {
+      "texture_index": 10,
+      "mipmap_index": 200,
+      "name": "HotRod-plameny5.dds"
+    },
+    {
+      "texture_index": 18,
+      "mipmap_index": 201,
+      "name": "engine_compartments.dds"
+    },
+    {
+      "texture_index": 21,
+      "mipmap_index": 202,
+      "name": "gplc.dds"
+    },
+    {
+      "texture_index": 22,
+      "mipmap_index": 203,
+      "name": "gplc_n.dds"
+    },
+    {
+      "texture_index": 23,
+      "mipmap_index": 204,
+      "name": "gplc_s.dds"
+    },
+    {
+      "texture_index": 36,
+      "mipmap_index": 205,
+      "name": "wheel_univers_d.dds"
+    },
+    {
+      "texture_index": 37,
+      "mipmap_index": 206,
+      "name": "wheel_univers_n.dds"
+    },
+    {
+      "texture_index": 38,
+      "mipmap_index": 207,
+      "name": "wheel_univers_s.dds"
+    },
+    {
+      "texture_index": 49,
+      "mipmap_index": 208,
+      "name": "CMRTVLOd.dds"
+    },
+    {
+      "texture_index": 50,
+      "mipmap_index": 209,
+      "name": "CMRTVLOn.dds"
+    },
+    {
+      "texture_index": 51,
+      "mipmap_index": 210,
+      "name": "CMRTVLOsp.dds"
+    }
+  ],
+  "errors": [
+    "Texture 24 mafiaenv_car.dds: Payload mismatch: actual=16320, expected=2720",
+    "Texture 34 ztmaveni_environmentu.dds: Payload mismatch: actual=768, expected=128"
+  ]
+}

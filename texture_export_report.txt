@@ -1,0 +1,12 @@
+MAFIA II CAR TEXTURE EXPORT
+
+Base texture resources: 51
+Successfully exported base textures: 49
+Mipmap resources: 18
+Successfully exported Mipmap resources: 18
+Matched pairs: 18
+Errors: 2
+
+ERROR DETAILS:
+Texture 24 mafiaenv_car.dds: Payload mismatch: actual=16320, expected=2720
+Texture 34 ztmaveni_environmentu.dds: Payload mismatch: actual=768, expected=128
